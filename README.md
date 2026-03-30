@@ -9,7 +9,7 @@ mostrar las ultimas 8 filas de la ultima columna
 
 mostrar las columnas gender y mathscore. Mostrar la cantidad de filas y columnas que tiene. Mostrar las primeras 4 filas. Mostrar las ultimas 4 filas
 
-
+abrir csv mostrar las 100 primeras filas. Mostrar la cantidad con count. mostrar ultima fila
 
 
 
